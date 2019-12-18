@@ -1,0 +1,12 @@
+Autor DAO
+-listar todos
+-insereAutor
+-remoeAutor
+-buscaAutor
+
+LivroDAO
+-listarTodos
+-InsereLivros
+-removerLivro
+-buscarLivrosAutores
+-buscarLivros
